@@ -1,0 +1,12 @@
+.cat-pic{
+    aspect-ratio: 1 / 1;
+    width:100%;
+}
+
+.description{
+    padding: 2rem;
+}
+
+h2 {
+    padding: 1rem;
+}
